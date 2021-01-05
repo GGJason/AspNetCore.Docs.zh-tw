@@ -28,7 +28,7 @@ ms.locfileid: "93060114"
 ---
 # <a name="authentication-and-authorization-in-aspnet-core-no-locsignalr"></a>ASP.NET Core 中的驗證和授權 SignalR
 
-[Andrew Stanton-護士](https://twitter.com/anurse)
+作者：[Andrew Stanton-護理師](https://twitter.com/anurse)
 
 [查看或下載範例程式碼](https://github.com/dotnet/AspNetCore.Docs/tree/master/aspnetcore/signalr/authn-and-authz/sample/) [ (如何下載) ](xref:index#how-to-download-a-sample)
 
