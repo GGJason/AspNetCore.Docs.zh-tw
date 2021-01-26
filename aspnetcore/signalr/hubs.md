@@ -86,7 +86,7 @@ public class ChatHub : Hub
 > * 請勿在中樞類別的屬性中儲存狀態。 每個中樞方法呼叫都會在新的中樞實例上執行。
 > * `await`在呼叫相依于中樞保持運作的非同步方法時使用。 例如， `Clients.All.SendAsync(...)` 如果在未呼叫的情況下呼叫， `await` 且中樞方法在完成之前完成，則像這樣的方法可能會失敗 `SendAsync` 。
 
-## <a name="the-context-object"></a>CoNtext 物件
+## <a name="the-context-object"></a>Context 物件
 
 `Hub`類別具有 `Context` 屬性，其中包含下列具有連接相關資訊的屬性：
 
